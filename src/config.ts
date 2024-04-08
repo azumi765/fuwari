@@ -7,9 +7,9 @@ import type {
 import { LinkPreset } from './types/config'
 
 export const siteConfig: SiteConfig = {
-  title: 'Fuwari',
-  subtitle: 'Demo Site',
-  lang: 'en',
+  title: 'ITSUKI',
+  subtitle: 'Blog Site',
+  lang: 'ja',
   themeHue: 250,
   banner: {
     enable: false,
