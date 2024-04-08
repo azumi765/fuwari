@@ -32,8 +32,8 @@ export const navBarConfig: NavBarConfig = {
 
 export const profileConfig: ProfileConfig = {
   avatar: 'assets/images/demo-avatar.png',
-  name: 'Lorem Ipsum',
-  bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+  name: 'ITSUKI',
+  bio: '夢は世界一周',
   links: [
     {
       name: 'Twitter',
