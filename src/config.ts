@@ -46,7 +46,7 @@ export const profileConfig: ProfileConfig = {
       url: 'https://store.steampowered.com',
     },
     {
-      name: 'GitHub',
+      name: 'Telegram',
       icon: 'fa6-brands:telegram',
       url: 'https://telegram.org/a/#6262429959',
     },
