@@ -38,7 +38,7 @@ export const profileConfig: ProfileConfig = {
     {
       name: 'Twitter',
       icon: 'fa6-brands:twitter',
-      url: 'https://twitter.com',
+      url: 'https://twitter.com/itsukiioo',
     },
     {
       name: 'Steam',
@@ -47,8 +47,8 @@ export const profileConfig: ProfileConfig = {
     },
     {
       name: 'GitHub',
-      icon: 'fa6-brands:github',
-      url: 'https://github.com/saicaca/fuwari',
+      icon: 'fa6-brands:telegram',
+      url: 'https://telegram.org/a/#6262429959',
     },
   ],
 }
